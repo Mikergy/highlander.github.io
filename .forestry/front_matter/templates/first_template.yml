@@ -1,0 +1,20 @@
+---
+label: First_Template
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  default: Title
+- type: text
+  default: Subtitle
+  label: type in something
+  name: type_in_something
+  description: literally type something!
+- type: textarea
+  name: text_area__woo_
+  label: Text area, woo!
+  description: Lots of text can be written here!
+- type: image_gallery
+  name: gallery
+  label: Gallery
+  description: Add a gallery
