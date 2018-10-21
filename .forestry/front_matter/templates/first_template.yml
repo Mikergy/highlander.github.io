@@ -18,3 +18,5 @@ fields:
   name: gallery
   label: Gallery
   description: Add a gallery
+pages:
+- _posts/house-it-going.md
